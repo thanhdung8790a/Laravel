@@ -1,0 +1,15 @@
+Xem trang thai
+git status
+
+Them mot phien lam viec
+git add .
+
+Tao commit
+git commit -m "Init Source"
+
+lay code ve
+git pull
+
+Day code len server
+git push origin master
+
